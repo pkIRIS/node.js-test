@@ -1,0 +1,17 @@
+{
+  "name": "lmcwebsite",
+  "version": "1.0.0",
+  "description": "LMC website, mint ERC-721 tokens",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js"
+  },
+  "author": "DrippyLabs",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
